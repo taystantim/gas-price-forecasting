@@ -103,10 +103,10 @@ These events correspond to significant spikes in both price movements and volati
 
 ## Key Insights
 
-• Gasoline prices exhibit random walk behavior, making directional forecasting difficult.
-• Volatility is time-varying and persistent, with clear clustering patterns.
-• Major economic events produce large structural breaks in price dynamics.
-• ARIMA models capture the mean process, while GARCH models effectively model volatility.
+- Gasoline prices exhibit random walk behavior, making directional forecasting difficult.
+- Volatility is time-varying and persistent, with clear clustering patterns.
+- Major economic events produce large structural breaks in price dynamics.
+- ARIMA models capture the mean process, while GARCH models effectively model volatility.
 
 ## Tools & Libraries 
 
